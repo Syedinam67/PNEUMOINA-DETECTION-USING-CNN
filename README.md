@@ -1,4 +1,5 @@
-Note: To download trained model, click here
+Note: To download trained model,[click here](https://universe.roboflow.com/mohamed-traore-2ekkp/chest-x-rays-qjmia/dataset/4)
+
 # PNEUMOINA-DETECTION-USING-CNN
 ## Project Overview
 This project is a deep learning-based system designed to detect pneumonia from chest X-ray images. By leveraging the power of ResNet18 architecture, the model classifies X-ray images as either Normal or Pneumonia with high accuracy. The system is built to aid healthcare professionals in making accurate diagnoses quickly and effectively.
