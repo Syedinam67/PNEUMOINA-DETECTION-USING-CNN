@@ -9,7 +9,8 @@ Performance Metrics: Includes confusion matrix, classification report, and ROC c
 Real-Time Predictions: Provides instant predictions with confidence scores for uploaded X-ray image
 
 ### Dataset
-The dataset used for this project is the Chest X-Ray Images (Pneumonia) dataset available on Robo flow. It contains:
+The dataset used for this project is the Chest X-Ray Images (Pneumonia) dataset available on Robo flow:(https://universe.roboflow.com/mohamed-traore-2ekkp/chest-x-rays-qjmia/dataset/4)
+**It contains**:
 
 Training Set: Images used for training the CNN.
 Validation Set: Images used for hyperparameter tuning.
